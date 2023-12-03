@@ -1,1 +1,2 @@
 This is correct line
+This is another correct line
