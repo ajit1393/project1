@@ -1,2 +1,4 @@
 This is correct line
 This is another correct line
+
+This is from VS code
